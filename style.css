@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#container{
+background-color: #FBEAEB;
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+  height: 100vh;
+  color: #2F3C7E;
+  text-align: center;
+}
+main{
+  border: 1px  #2F3C7E;
+  text-align: center;
+  height: 100%;
+}
+p {
+  padding: 2rem;
+  text-align: left;
+  font-size: large;
+}
+#foot{
+    background-color:#FBEAEB;
+    margin: auto;
+    text-align: center;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+.fa-linkedin {
+
+    color:#2F3C7E;
+    margin: auto;
+}
+
+.fa-github{
+    
+    color: #2F3C7E;
+    margin: auto;
+}
+
+.fa-instagram {
+    
+    color: #2F3C7E;
+}
+
+.fa {
+    padding: 13px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: auto;
+}
